@@ -3,6 +3,16 @@
   <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
   </summary>
 
+
+<p align="center">
+  <img 
+    alt="Profile Visits" 
+    src="https://visitcount.itsvg.in/api?id=NightRunners02&label=Profile%20Views&color=0&icon=5"
+  />
+  <br>
+</p>
+
+
 <p>
 <div align="center">
 <h3>
